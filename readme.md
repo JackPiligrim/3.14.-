@@ -20,11 +20,6 @@ LICENS: [MIT](license.md)
 12. [Источники](sources.md)
 
 
-
-
-
-
-
 ---
 
 GIT logo Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
